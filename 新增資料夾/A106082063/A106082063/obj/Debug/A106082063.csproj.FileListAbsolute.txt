@@ -1,0 +1,14 @@
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\bin\Debug\A106082063.exe.config
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\bin\Debug\A106082063.exe
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\bin\Debug\A106082063.pdb
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\App.g.cs
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063_MarkupCompile.cache
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063_MarkupCompile.lref
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\MainWindow.baml
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.g.resources
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.Properties.Resources.resources
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.exe
+C:\Users\w401\Desktop\新增資料夾\A106082063\A106082063\obj\Debug\A106082063.pdb
